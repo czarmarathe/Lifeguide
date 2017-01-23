@@ -3,7 +3,7 @@
 
 # ### Code to extract data from system files and generate a specialized report by analyzing the data present in the lifeguide server files
 
-files =  ['MH-data.xlsx','scdOK-data.xlsx','asthmaOk-data.xlsx','prematurityLogin-data.xlsx','diabetesOk-data.xlsx','oralH-data.xlsx']
+files =  ['< Files generated (with .xlsx extension) in a comma seperates list >']
 
 
 # Extracting data from files present in local folders :<br/>
